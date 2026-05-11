@@ -170,7 +170,10 @@ Medium
 
 ## Priority
 
-Medium
+Medium 
+## Скриншот
+
+![Каталог: ошибка загрузки изображений](./screenshots/catalog-image-loading-error.png)
 
 </details>
 
@@ -350,7 +353,9 @@ Medium
 ## Priority
 
 Medium
+## Скриншот
 
+![Форма входа](./screenshots/Форма Вход.png)
 </details>
 
 ---
