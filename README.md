@@ -355,7 +355,7 @@ Medium
 Medium
 ## Скриншот
 
-![Форма входа](./screenshots/Форма Вход.png)
+![Форма входа](./screenshots/login-form-fields-english-localization.png)
 </details>
 
 ---
@@ -413,6 +413,9 @@ Medium
 ## Priority
 
 Medium
+## Скриншот
+
+![Регистрация: невалидный логин](./screenshots/registration-invalid-login-error-message.png)
 
 </details>
 
@@ -473,6 +476,9 @@ Medium
 ## Priority
 
 Medium
+## Скриншот
+
+![Авторизация: неверный пароль](./screenshots/login-incorrect-password-error.png)
 
 </details>
 
@@ -588,7 +594,9 @@ Medium
 ## Priority
 
 Medium
+## Скриншот
 
+![Некорректный редирект ссылки авторизации](./screenshots/auth-link-redirect-to-home-instead-login.png)
 </details>
 
 ---
@@ -765,6 +773,9 @@ Low
 ## Priority
 
 Medium
+## Скриншот
+
+![Кнопка удаления товара на английском языке](./screenshots/payment-delete-button-english-text.png)
 
 </details>
 
@@ -827,5 +838,7 @@ Medium
 ## Priority
 
 Medium
+## Скриншот
 
+![История заказов: некорректные данные доставки](./screenshots/order-history-delivery-data-mismatch.png)
 </details>
